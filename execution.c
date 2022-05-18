@@ -5,6 +5,7 @@
  *@cp: command
  *@cmd:vector array of pointers to commands
  * Return: 0
+ * exit status 98
  */
 void execution(char *cp, char **cmd)
 {
