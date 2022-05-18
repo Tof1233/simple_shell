@@ -1,4 +1,4 @@
-# Simple Shell Project
+# Simple Shell Projec
 ## Table of contents
 - What is the shell?
 - About this project
