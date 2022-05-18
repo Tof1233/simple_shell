@@ -134,7 +134,7 @@ total 52
 #cisfun$ exit
 ubunto@ubuntu:~/Bureau/simple_shell$
 ## Bugs
-No known Bugs..
+No known Bugs.
 
 ## TEAM
 Tofik Gashaw: LinkedIn/ | GitHub/ | Twitter/
